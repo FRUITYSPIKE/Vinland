@@ -1,0 +1,50 @@
+html {
+  background-image: url(vinlandsaga_season1.jpg);
+  background-size: cover;
+}
+
+h1 {
+  font-family: "Black And White Picture", cursive;
+  color: black
+}
+p {
+  color: black
+  font-family: 'Black And White Picture', cursive;
+font-family: 'Syne Tactile', cursive;}
+
+h2 {
+  color: black
+  font-family: 'Black And White Picture', cursive;
+font-family: 'Syne Tactile', cursive;}
+
+h3 {
+  color: black
+  font-family: 'Black And White Picture', cursive;
+font-family: 'Syne Tactile', cursive;
+
+  font-size: xx-large;
+}
+li {
+  color: black
+  font-family: 'Black And White Picture', cursive;
+font-family: 'Syne Tactile', cursive;}
+
+body {
+  background-color:bisque;
+  border: 2px solid black;
+  width: 500px;
+  margin: 50px auto;
+  padding: 25px 75px;
+  border-radius: 10px;
+}
+a {
+  box-shadow: inset 0 0 0 0 #54b3d6;
+  color: #54b3d6;
+  margin: 0 -.25rem;
+  padding: 0 .25rem;
+  transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+}
+a:hover {
+  box-shadow: inset 100px 0 0 0 #54b3d6;
+  color: white;
+}
